@@ -62,15 +62,13 @@ As we have online summer school, all of us will continue to use Bookie Bot for o
 To get started <a href="https://discord.com/api/oauth2/authorize?client_id=972629701048819722&permissions=8&scope=bot">Click Me</a> to invite Bookie to your server!
 
 ## Usage
-<p align="center">
-!todo - Personal todo list <br/>
-!pmd - Pomodoro Timer <br/>
-!quote - Get a motivational quote <br/>
-!gradecalculator - Calculate current grade in a class <br/>
-!lifestyle - Healthy studying reminders <br/>
+* **!todo** - Personal todo list <br/>
+* **!pmd** - Pomodoro Timer <br/>
+* **!quote** - Get a motivational quote <br/>
+* **!gradecalculator** - Calculate current grade in a class <br/>
+* **!lifestyle** - Healthy studying reminders <br/>
 --------------------------- <br/>
-use !help (command name) to get help with a specific function <br/>
-</p>
+**use !help (command name) to get help with a specific function**
 
 
 
