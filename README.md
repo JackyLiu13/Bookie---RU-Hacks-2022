@@ -49,9 +49,9 @@ As our first-ever hackathon, we learned a great deal. We learned a lot about how
 As we have online summer school, all of us will continue to use Bookie Bot for our online productivity. We are also connecting it to our friends' servers to show off what we have made. As our first-ever hackathon project, Bookie Bot has served as a great learning opportunity and will act as a stepping stone to bigger and better projects for us in the future.
 
 ## Built With
+**Python, Flask, JSON, DiscordAPI, Repl**
 
-Python, Flask, JSON, DiscordAPI
-
+## Contributors 
 * [Bruce](https://github.com/Bruce4PF)
 * [Mark](https://github.com/markschm)
 * [Alex](https://github.com/alexfatu)
