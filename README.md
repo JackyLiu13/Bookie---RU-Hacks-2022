@@ -63,13 +63,13 @@ To get started <a href="https://discord.com/api/oauth2/authorize?client_id=97262
 
 ## Usage
 <p align="center">
-!todo - Personal todo list
-!pmd - Pomodoro Timer
-!quote - Get a motivational quote
-!gradecalculator - Calculate current grade in a class
-!lifestyle - Healthy studying reminders
----------------------------
-use !help (command name) to get help with a specific function
+!todo - Personal todo list <br/>
+!pmd - Pomodoro Timer <br/>
+!quote - Get a motivational quote <br/>
+!gradecalculator - Calculate current grade in a class <br/>
+!lifestyle - Healthy studying reminders <br/>
+--------------------------- <br/>
+use !help (command name) to get help with a specific function <br/>
 </p>
 
 
